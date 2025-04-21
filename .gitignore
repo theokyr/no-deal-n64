@@ -1,0 +1,13 @@
+build
+filesystem
+*.z64
+*.elf
+*.o
+*.bin
+*.map
+*.dis
+*.list
+*.sym
+*.lst
+*.stripped
+*.pak
